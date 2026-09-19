@@ -1,285 +1,411 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111827,100:312e81&text=VIGNESHWARAN&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="Vigneshwaran Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=680&height=42&lines=Hi+there!+I'm+Vigneshwaran+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Machine+Learning+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Engineering+%2B+AI+%E2%9A%99%EF%B8%8F;Building+Practical+Technology+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,45:111827,100:4C1D95&text=VIGNESHWARAN&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20Cybersecurity&descAlignY=62&descSize=19&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/Vicky6381">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vicky6381&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Cybersecurity+%7C+Python;Building+Practical+Intelligent+Systems;Exploring+AI+%2B+Security+%2B+Automation;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Animation" />
 
----
+<br><br>
 
-<h2 align="center">🟣 About Me</h2>
+<a href="https://github.com/Vicky6381">
+<img src="https://img.shields.io/badge/GitHub-Vicky6381-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
 
-<p align="center">
-  Hey! I'm <b>Vigneshwaran</b>, an <b>AI & Data Science engineering student</b> from India.<br />
-  I am interested in <b>Artificial Intelligence, Machine Learning, Data Science, Cybersecurity</b> and practical software development.
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓-B.Tech%20AI%20%26%20Data%20Science-8B5CF6?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-111827?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/💻-Software%20Development-111827?style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Vicky6381&label=PROFILE%20VIEWS&style=for-the-badge&color=8B5CF6" />
 
-<p align="center">
-  💬 <b>Interested in:</b> Python • Machine Learning • AI • Data Science • Cybersecurity • Automation<br />
-  ⚡ <b>Mindset:</b> <i>Learn → Build → Test → Improve</i>
-</p>
+</div>
 
 ---
 
-<h2 align="center">🚀 What I Build</h2>
+<div align="center">
 
-<table width="100%" border="0">
+## `01 // IDENTITY`
 
+</div>
+
+<table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" align="center">
+### 👋 Hey, I'm Vigneshwaran
 
-### 🧠 Artificial Intelligence
+I'm an **AI & Data Science engineering student** interested in building practical solutions using:
 
-Machine Learning  
-Predictive Analytics  
-Intelligent Systems  
-AI Applications
+* 🧠 Artificial Intelligence
+* 🤖 Machine Learning
+* 📊 Data Science
+* 🔐 Cybersecurity
+* 🐍 Python Development
+* ⚙️ Automation
+* 🌐 Web Technologies
 
-</td>
-
-<td width="50%" align="center">
-
-### 📊 Data Science
-
-Data Analysis  
-Data Preprocessing  
-Visualization  
-Prediction Models
+I enjoy transforming ideas into working projects and continuously improving through hands-on development.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🔐 Cybersecurity
-
-Security Tools  
-Vulnerability Analysis  
-Secure Applications  
-Security Automation
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Software Development
-
-Python  
-Web Applications  
-Automation  
-Git & GitHub
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2 align="center">🔥 Featured Projects</h2>
-
-<table width="100%" border="0">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏠 House Price Prediction</h3>
-
-<p align="center">
-Machine learning model for predicting house prices using regression techniques.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🎣 Phishing Email Detection</h3>
-
-<p align="center">
-Machine learning model designed to classify emails as phishing or safe.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square"/>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ Vulnerability Scanner</h3>
-
-<p align="center">
-Lightweight security scanner for authorized testing, security headers and reporting.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔑 Password Strength Analyzer</h3>
-
-<p align="center">
-Browser-based tool for analyzing password strength and security characteristics.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center"><b>Languages</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-</p>
-
-<p align="center"><b>AI • Data Science • ML</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center"><b>Development • Tools</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
-</p>
-
-<p align="center"><b>Databases</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-<h2 align="center">📈 Current Focus</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-Building-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Exploring-22D3EE?style=for-the-badge"/>
-
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky6381&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=F3F4F6&icon_color=22D3EE&border_radius=12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6381&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=F3F4F6&border_radius=12" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vicky6381&theme=dark&hide_border=false&border=8B5CF6&background=050505&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888" width="60%" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vicky6381&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<h2 align="center">💡 Developer Mindset</h2>
-
-<p align="center">
+<td width="45%" valign="top">
 
 ```text
-              ┌──────────────┐
-              │     IDEA     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   RESEARCH   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BUILD     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │     TEST     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   IMPROVE    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   DEPLOY 🚀  │
-              └──────────────┘
+┌─────────────────────────────┐
+│       SYSTEM PROFILE        │
+├─────────────────────────────┤
+│ NAME      : Vigneshwaran    │
+│ GITHUB    : Vicky6381       │
+│ DOMAIN    : AI / DS         │
+│ INTEREST  : ML + Security   │
+│ LANGUAGE  : Python          │
+│ MODE      : BUILDING        │
+│ STATUS    : 🟢 ACTIVE       │
+└─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02 // PROJECT ARCHIVE`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+
+Machine learning project focused on predicting house prices using regression techniques.
+
+**Repository**
+
+<a href="https://github.com/Vicky6381/forcasting_house_prize_using_regression">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Jupyter Notebook` `Python` `Regression` `Machine Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎣 Phishing Email Detection
+
+Machine learning model for identifying **phishing and safe emails** using Scikit-learn.
+
+**Repository**
+
+<a href="https://github.com/Vicky6381/phishing-email-detection-model">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Python` `Scikit-learn` `Machine Learning` `Cybersecurity`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ Vulnerability Scanner Mini
+
+Lightweight Python-based vulnerability scanner for **authorized security testing**, including port scanning, HTTP security-header checks and JSON reporting.
+
+**Repository**
+
+<a href="https://github.com/Vicky6381/vulnerability-scanner-mini">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Python` `Cybersecurity` `Port Scanning` `JSON`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Password Strength Analyzer
+
+Browser-based password strength analyzer designed to evaluate password security characteristics.
+
+**Repository**
+
+<a href="https://github.com/Vicky6381/password-strengthanalyzer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`HTML` `CSS` `JavaScript` `Security`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🔑 Secure Login System
+
+Secure Flask-based authentication project featuring password hashing, input validation, SQL injection protection and session management.
+
+<a href="https://github.com/Vicky6381/secure-login-system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Python` `Flask` `Bcrypt` `SQL Security` `Authentication`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03 // TECH ARSENAL`
+
+### 🧑‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv" />
+
+<br><br>
+
+### 🔐 Security / Development
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `04 // DEVELOPMENT MATRIX`
+
+</div>
+
+```text
+                         VIGNESHWARAN
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+        ARTIFICIAL       DATA SCIENCE      SECURITY
+       INTELLIGENCE          │                │
+             │                │                │
+       ┌─────┼─────┐     ┌────┼────┐      ┌───┼────┐
+       │     │     │     │    │    │      │   │    │
+      ML    AI   CV     EDA  ML   DS     Web  App  Network
+       │           │      │    │    │      │    │
+       └─────┬─────┘      └────┴────┘      └────┴───
+             │
+             ▼
+        PRACTICAL SYSTEMS
+             │
+             ▼
+           🚀 BUILD
+```
+
+---
+
+<div align="center">
+
+## `05 // CURRENT INTEREST`
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+🧠<br>
+<b>AI</b><br>
+<sub>Intelligent Systems</sub>
+</td>
+
+<td align="center" width="20%">
+🤖<br>
+<b>ML</b><br>
+<sub>Predictive Models</sub>
+</td>
+
+<td align="center" width="20%">
+📊<br>
+<b>DATA</b><br>
+<sub>Analysis & Insights</sub>
+</td>
+
+<td align="center" width="20%">
+🔐<br>
+<b>SECURITY</b><br>
+<sub>Cybersecurity</sub>
+</td>
+
+<td align="center" width="20%">
+⚙️<br>
+<b>AUTOMATION</b><br>
+<sub>Smart Workflows</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 // GITHUB TELEMETRY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vicky6381&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB&icon_color=22D3EE&border_radius=16&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6381&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB&border_radius=16" width="40%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Vicky6381&theme=dark&hide_border=true&background=050505&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6B7280" width="65%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 // CONTRIBUTION NETWORK`
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 // ACHIEVEMENT MATRIX`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vicky6381&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `09 // DEVELOPMENT PHILOSOPHY`
+
+</div>
+
+```text
+                         ┌─────────────┐
+                         │    IDEA     │
+                         └──────┬──────┘
+                                │
+                                ▼
+                       ┌────────────────┐
+                       │    RESEARCH    │
+                       └───────┬────────┘
+                               │
+                               ▼
+                       ┌────────────────┐
+                       │     BUILD      │
+                       └───────┬────────┘
+                               │
+                               ▼
+                       ┌────────────────┐
+                       │      TEST      │
+                       └───────┬────────┘
+                               │
+                               ▼
+                       ┌────────────────┐
+                       │    IMPROVE     │
+                       └───────┬────────┘
+                               │
+                               ▼
+                       ┌────────────────┐
+                       │   DEPLOY 🚀    │
+                       └────────────────┘
+```
+
+> **"Don't just learn technology. Build something with it."**
+
+---
+
+<div align="center">
+
+## `10 // 2026 ROADMAP`
+
+```text
+AI / ML                    ████████████████░░░░
+Data Science               ███████████████░░░░░
+Python                     ██████████████████░░
+Cybersecurity              ██████████████░░░░░░
+Software Development       ███████████████░░░░░
+Project Building           █████████████████░░░
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 // CONNECT`
+
+<a href="https://github.com/Vicky6381">
+<img src="https://img.shields.io/badge/GitHub-Vicky6381-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+
+ 
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4C1D95,50:111827,100:050505" width="100%" />
+
+</div>
