@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,45:111827,100:4C1D95&text=VIGNESHWARAN&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20Cybersecurity&descAlignY=62&descSize=19&animation=fadeIn" width="100%" />
+<a href="https://github.com/Vicky6381">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=VIGNESHWARAN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20ML%20%7C%20CYBERSECURITY&descSize=18&descAlignY=60&animation=twinkling&color=0:050505,30:111827,65:312E81,100:06B6D4" width="100%"/>
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Cybersecurity+%7C+Python;Building+Practical+Intelligent+Systems;Exploring+AI+%2B+Security+%2B+Automation;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+Vigneshwaran.exe...;%3E+AI+%26+Data+Science+Engineer;%3E+Machine+Learning+%7C+Cybersecurity+%7C+Python;%3E+Building+Systems+That+Solve+Real+Problems;%3E+Code.+Analyze.+Secure.+Build.+Repeat.;%3E+System+Status%3A+ONLINE+%E2%9A%A1" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vicky6381&style=for-the-badge&color=06B6D4&label=PROFILE+SCANS"/>
 
 <br><br>
 
 <a href="https://github.com/Vicky6381">
-<img src="https://img.shields.io/badge/GitHub-Vicky6381-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-Vicky6381-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-06B6D4?style=for-the-badge"/>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Vicky6381&label=PROFILE%20VIEWS&style=for-the-badge&color=8B5CF6" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SECURITY-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -30,7 +28,9 @@
 
 <div align="center">
 
-## `01 // IDENTITY`
+# `01 / SYSTEM BOOT`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&height=35&lines=%5BBOOT%5D+Loading+developer+profile...;%5BOK%5D+AI+modules+initialized;%5BOK%5D+Machine+Learning+systems+online;%5BOK%5D+Security+modules+online;%5BREADY%5D+Waiting+for+the+next+challenge..." />
 
 </div>
 
@@ -38,37 +38,32 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👋 Hey, I'm Vigneshwaran
+### `> whoami`
 
-I'm an **AI & Data Science engineering student** interested in building practical solutions using:
+```text
+╔══════════════════════════════════════╗
+║           VIGNESHWARAN               ║
+╠══════════════════════════════════════╣
+║ ROLE        : AI & Data Science      ║
+║ DOMAIN      : AI / ML / Security     ║
+║ PRIMARY     : Python                 ║
+║ BUILD MODE  : Always ON              ║
+║ CURRENT     : Learning + Building    ║
+║ GITHUB      : Vicky6381              ║
+╚══════════════════════════════════════╝
+```
 
-* 🧠 Artificial Intelligence
-* 🤖 Machine Learning
-* 📊 Data Science
-* 🔐 Cybersecurity
-* 🐍 Python Development
-* ⚙️ Automation
-* 🌐 Web Technologies
+I build practical projects around **Artificial Intelligence, Machine Learning, Data Science, Cybersecurity and software development**.
 
-I enjoy transforming ideas into working projects and continuously improving through hands-on development.
+My approach is simple:
+
+**Learn → Build → Test → Improve → Repeat.**
 
 </td>
 
 <td width="45%" valign="top">
 
-```text
-┌─────────────────────────────┐
-│       SYSTEM PROFILE        │
-├─────────────────────────────┤
-│ NAME      : Vigneshwaran    │
-│ GITHUB    : Vicky6381       │
-│ DOMAIN    : AI / DS         │
-│ INTEREST  : ML + Security   │
-│ LANGUAGE  : Python          │
-│ MODE      : BUILDING        │
-│ STATUS    : 🟢 ACTIVE       │
-└─────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Vicky6381&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&icon_color=7C3AED&rank_icon=github&include_all_commits=true&count_private=false"/>
 
 </td>
 </tr>
@@ -78,7 +73,48 @@ I enjoy transforming ideas into working projects and continuously improving thro
 
 <div align="center">
 
-## `02 // PROJECT ARCHIVE`
+# `02 / NEURAL ARCHITECTURE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=06B6D4" width="80%"/>
+
+</div>
+
+```text
+                         ┌─────────────────────┐
+                         │     VIGNESHWARAN    │
+                         │    DEVELOPER CORE   │
+                         └──────────┬──────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+      ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+      │ ARTIFICIAL   │       │ DATA         │       │ SECURITY     │
+      │ INTELLIGENCE │       │ SCIENCE      │       │ ENGINEERING  │
+      └──────┬───────┘       └──────┬───────┘       └──────┬───────┘
+             │                      │                      │
+       ┌─────┼─────┐          ┌─────┼─────┐          ┌─────┼─────┐
+       ▼     ▼     ▼          ▼     ▼     ▼          ▼     ▼     ▼
+      ML     AI    CV         EDA   REG   DATA       WEB   APP   NET
+       │           │          │             │          │     │
+       └─────┬─────┘          └──────┬──────┘          └─────┬─────┘
+             │                       │                       │
+             └───────────────────────┼───────────────────────┘
+                                     ▼
+                         ┌─────────────────────┐
+                         │  PRACTICAL SYSTEMS │
+                         └──────────┬──────────┘
+                                    ▼
+                              🚀 BUILD & SHIP
+```
+
+---
+
+<div align="center">
+
+# `03 / PROJECT MATRIX`
+
+### Real repositories. Real builds. Real experiments.
 
 </div>
 
@@ -87,37 +123,43 @@ I enjoy transforming ideas into working projects and continuously improving thro
 
 <td width="50%" valign="top">
 
-### 🏠 House Price Prediction
+## 🧠 HOUSE PRICE ENGINE
 
-Machine learning project focused on predicting house prices using regression techniques.
+**`forcasting_house_prize_using_regression`**
 
-**Repository**
+```text
+TYPE       → Machine Learning
+ENGINE     → Regression
+PLATFORM   → Jupyter Notebook
+PURPOSE    → Price Prediction
+```
+
+A regression-based machine learning project focused on predicting house prices.
 
 <a href="https://github.com/Vicky6381/forcasting_house_prize_using_regression">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-`Jupyter Notebook` `Python` `Regression` `Machine Learning`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎣 Phishing Email Detection
+## 🛡️ PHISHING DETECTION ENGINE
 
-Machine learning model for identifying **phishing and safe emails** using Scikit-learn.
+**`phishing-email-detection-model`**
 
-**Repository**
+```text
+TYPE       → Machine Learning
+ENGINE     → Scikit-learn
+DOMAIN     → Cybersecurity
+TASK       → Phishing Detection
+```
+
+Machine learning model designed to classify phishing and safe emails.
 
 <a href="https://github.com/Vicky6381/phishing-email-detection-model">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-`Python` `Scikit-learn` `Machine Learning` `Cybersecurity`
 
 </td>
 
@@ -127,37 +169,45 @@ Machine learning model for identifying **phishing and safe emails** using Scikit
 
 <td width="50%" valign="top">
 
-### 🛡️ Vulnerability Scanner Mini
+## 🔍 VULNERABILITY SCANNER
 
-Lightweight Python-based vulnerability scanner for **authorized security testing**, including port scanning, HTTP security-header checks and JSON reporting.
+**`vulnerability-scanner-mini`**
 
-**Repository**
+```text
+TYPE       → Security Tool
+LANGUAGE   → Python
+FEATURES   → Port Scanning
+           → HTTP Header Checks
+           → JSON Reporting
+MODE       → Authorized Testing
+```
+
+Lightweight vulnerability scanner built for authorized security testing.
 
 <a href="https://github.com/Vicky6381/vulnerability-scanner-mini">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-`Python` `Cybersecurity` `Port Scanning` `JSON`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Password Strength Analyzer
+## 🔐 PASSWORD ANALYZER
 
-Browser-based password strength analyzer designed to evaluate password security characteristics.
+**`password-strengthanalyzer`**
 
-**Repository**
+```text
+TYPE       → Web Application
+STACK      → HTML / CSS / JS
+DOMAIN     → Security
+TASK       → Password Analysis
+```
+
+Browser-based password strength analyzer focused on evaluating password security characteristics.
 
 <a href="https://github.com/Vicky6381/password-strengthanalyzer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-`HTML` `CSS` `JavaScript` `Security`
 
 </td>
 
@@ -167,17 +217,25 @@ Browser-based password strength analyzer designed to evaluate password security 
 
 <td colspan="2" align="center">
 
-### 🔑 Secure Login System
+## 🔑 SECURE AUTHENTICATION SYSTEM
 
-Secure Flask-based authentication project featuring password hashing, input validation, SQL injection protection and session management.
+**`secure-login-system`**
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ FLASK AUTHENTICATION CORE                                    │
+├──────────────────────────────────────────────────────────────┤
+│ ✓ Password Hashing                                           │
+│ ✓ Bcrypt                                                     │
+│ ✓ Input Validation                                           │
+│ ✓ SQL Injection Protection                                   │
+│ ✓ Session Management                                         │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/Vicky6381/secure-login-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-`Python` `Flask` `Bcrypt` `SQL Security` `Authentication`
 
 </td>
 
@@ -188,29 +246,17 @@ Secure Flask-based authentication project featuring password hashing, input vali
 
 <div align="center">
 
-## `03 // TECH ARSENAL`
+# `04 / TECH STACK`
 
-### 🧑‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark&perline=6"/>
 
 <br><br>
 
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=flask,sklearn,tensorflow,pytorch,opencv&theme=dark&perline=6"/>
 
 <br><br>
 
-### 🔐 Security / Development
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,mysql,mongodb,vscode,postman&theme=dark&perline=8"/>
 
 </div>
 
@@ -218,89 +264,158 @@ Secure Flask-based authentication project featuring password hashing, input vali
 
 <div align="center">
 
-## `04 // DEVELOPMENT MATRIX`
+# `05 / SKILL CONSTELLATION`
 
 </div>
 
 ```text
-                         VIGNESHWARAN
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        ARTIFICIAL       DATA SCIENCE      SECURITY
-       INTELLIGENCE          │                │
-             │                │                │
-       ┌─────┼─────┐     ┌────┼────┐      ┌───┼────┐
-       │     │     │     │    │    │      │   │    │
-      ML    AI   CV     EDA  ML   DS     Web  App  Network
-       │           │      │    │    │      │    │
-       └─────┬─────┘      └────┴────┘      └────┴───
-             │
-             ▼
-        PRACTICAL SYSTEMS
-             │
-             ▼
-           🚀 BUILD
+                         ╭────────────────────╮
+                         │   AI / ML CORE     │
+                         ╰─────────┬──────────╯
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+        ┌──────────┐         ┌──────────┐         ┌──────────┐
+        │   ML     │         │   DATA   │         │   CV     │
+        │ ████████ │         │ ███████░ │         │ ██████░░ │
+        └──────────┘         └──────────┘         └──────────┘
+
+                         ╭────────────────────╮
+                         │  SECURITY CORE     │
+                         ╰─────────┬──────────╯
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+        ┌──────────┐         ┌──────────┐         ┌──────────┐
+        │ WEB SEC  │         │ APP SEC  │         │ NETWORK  │
+        │ ███████░ │         │ ██████░░ │         │ ██████░░ │
+        └──────────┘         └──────────┘         └──────────┘
 ```
 
 ---
 
 <div align="center">
 
-## `05 // CURRENT INTEREST`
+# `06 / LIVE TELEMETRY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vicky6381&show_icons=true&hide_border=true&bg_color=050505&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&border_radius=20&rank_icon=github"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6381&layout=donut-vertical&hide_border=true&bg_color=050505&title_color=22D3EE&text_color=E2E8F0&border_radius=20"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Vicky6381&hide_border=true&background=050505&ring=22D3EE&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&border_radius=20"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `07 / CONTRIBUTION CORE`
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vicky6381&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `08 / TERMINAL`
+
+</div>
+
+```bash
+┌──(vigneshwaran㉿github)-[~/developer]
+└─$ ./profile.sh
+
+[+] Identity        : Vigneshwaran
+[+] GitHub          : Vicky6381
+[+] Domain          : AI & Data Science
+[+] Primary         : Python
+
+[+] Modules
+    ├── Artificial Intelligence
+    ├── Machine Learning
+    ├── Data Science
+    ├── Cybersecurity
+    ├── Web Development
+    └── Automation
+
+[+] Repositories    : 6 public
+[+] Build Status    : ACTIVE
+[+] Learning Mode   : ENABLED
+[+] Curiosity       : ∞
+
+[✓] System initialized successfully.
+
+vigneshwaran@github:~$ _
+```
+
+---
+
+<div align="center">
+
+# `09 / DEVELOPMENT LOOP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1600&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=IDEA+%E2%86%92+RESEARCH+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;%E2%86%91+LEARN;%E2%86%91+BUILD;%E2%86%91+BREAK;%E2%86%91+FIX;%E2%86%91+REPEAT" />
+
+```text
+       ┌────────────┐
+       │    IDEA    │
+       └─────┬──────┘
+             ▼
+       ┌────────────┐
+       │  RESEARCH  │
+       └─────┬──────┘
+             ▼
+       ┌────────────┐
+       │    BUILD   │
+       └─────┬──────┘
+             ▼
+       ┌────────────┐
+       │    TEST    │◄─────────────┐
+       └─────┬──────┘              │
+             ▼                     │
+       ┌────────────┐              │
+       │   DEBUG    │──────────────┘
+       └─────┬──────┘
+             ▼
+       ┌────────────┐
+       │   DEPLOY   │
+       └─────┬──────┘
+             ▼
+          🚀 SHIP
+```
+
+---
+
+<div align="center">
+
+# `10 / CURRENT DIRECTIVE`
 
 <table>
 <tr>
-
-<td align="center" width="20%">
-🧠<br>
-<b>AI</b><br>
-<sub>Intelligent Systems</sub>
-</td>
-
-<td align="center" width="20%">
-🤖<br>
-<b>ML</b><br>
-<sub>Predictive Models</sub>
-</td>
-
-<td align="center" width="20%">
-📊<br>
-<b>DATA</b><br>
-<sub>Analysis & Insights</sub>
-</td>
-
-<td align="center" width="20%">
-🔐<br>
-<b>SECURITY</b><br>
-<sub>Cybersecurity</sub>
-</td>
-
-<td align="center" width="20%">
-⚙️<br>
-<b>AUTOMATION</b><br>
-<sub>Smart Workflows</sub>
-</td>
-
+<td align="center">🧠<br><b>AI</b><br><sub>Intelligent Systems</sub></td>
+<td align="center">🤖<br><b>ML</b><br><sub>Predictive Models</sub></td>
+<td align="center">📊<br><b>DATA</b><br><sub>Insights</sub></td>
+<td align="center">🔐<br><b>SECURITY</b><br><sub>Secure Systems</sub></td>
+<td align="center">⚙️<br><b>BUILD</b><br><sub>Real Projects</sub></td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## `06 // GITHUB TELEMETRY`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vicky6381&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB&icon_color=22D3EE&border_radius=16&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky6381&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB&border_radius=16" width="40%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Vicky6381&theme=dark&hide_border=true&background=050505&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6B7280" width="65%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&height=45&lines=Exploring+AI+%2B+Security+%2B+Automation;Turning+Ideas+Into+Working+Systems;Learning+Through+Real+Projects;The+Next+Build+Is+Already+Loading...+%F0%9F%9A%80"/>
 
 </div>
 
@@ -308,104 +423,20 @@ Secure Flask-based authentication project featuring password hashing, input vali
 
 <div align="center">
 
-## `07 // CONTRIBUTION NETWORK`
+# `11 / GITHUB NETWORK`
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
+<a href="https://github.com/Vicky6381?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-
-## `08 // ACHIEVEMENT MATRIX`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vicky6381&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-## `09 // DEVELOPMENT PHILOSOPHY`
-
-</div>
-
-```text
-                         ┌─────────────┐
-                         │    IDEA     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                       ┌────────────────┐
-                       │    RESEARCH    │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │     BUILD      │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │      TEST      │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │    IMPROVE     │
-                       └───────┬────────┘
-                               │
-                               ▼
-                       ┌────────────────┐
-                       │   DEPLOY 🚀    │
-                       └────────────────┘
-```
-
-> **"Don't just learn technology. Build something with it."**
-
----
-
-<div align="center">
-
-## `10 // 2026 ROADMAP`
-
-```text
-AI / ML                    ████████████████░░░░
-Data Science               ███████████████░░░░░
-Python                     ██████████████████░░
-Cybersecurity              ██████████████░░░░░░
-Software Development       ███████████████░░░░░
-Project Building           █████████████████░░░
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `11 // CONNECT`
+ 
 
 <a href="https://github.com/Vicky6381">
-<img src="https://img.shields.io/badge/GitHub-Vicky6381-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
- 
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FOLLOW-VIGNESHWARAN-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4C1D95,50:111827,100:050505" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:06B6D4,35:312E81,70:111827,100:050505"/>
 
 </div>
